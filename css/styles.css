@@ -150,7 +150,10 @@ header {
   background-color: #044662 !important;
   width: 100%;
   margin: 0;
-  padding: 4px;
+  padding: 2px;
+}
+.txt-cerrar-sesion {
+  color: #ffffff;
 }
 
 #main_1 {
